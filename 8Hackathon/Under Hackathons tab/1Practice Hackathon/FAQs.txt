@@ -1,0 +1,35 @@
+1. How to do submission on Hackathon?
+Answer: Log in to Olympus>Click on ‘Hackathon’ to upload your file
+2. Where to check my ranking?
+Answer: Leader board.
+3. What does accuracy on the Leader board mean?
+Answer: If it is a classification problem, then accuracy means the total number of values predicted correctly divided by
+the total number of predictions made. In this case, the higher the accuracy the better the model, and the accuracy will
+be in percentage. If it is a Regression problem, then the measure of accuracy will be RMSE (Root Mean Square Error). In
+this case, the lower the accuracy the better the model, and the accuracy will be in numbers and the range depends on the
+context.
+4. Are there any restrictions on the number of submissions?
+Answer: No. There is no limit on the number of submissions.
+5. Will any support be provided for solving the hackathon problem?
+Answer: As it is a competition, no help related to the given problem or coding will be given from Great Learning.
+6. What is the ideal solution to the problem?
+Answer: In Hackathon, you build the capability to come up with multiple approaches to the same problem. In this scenario,
+there is no ideal solution. The game is to get to the top by getting the best model accuracy. There might be scenarios
+where the model is not the best in terms of implementation in business scenarios because of overfitting. The ideal
+solution to this Hackathon will be the one with the best accuracy.
+7. What techniques can I use while working with the problem?
+Answer: You can use any suitable technique that you are aware of. There are no restrictions as far as any techniques or
+tools are concerned.
+8. Will I get the model solution once the Hackathon is over?
+Answer: No. No solutions to the problem will be provided but you are free to discuss your solutions with your peers.
+
+Note: In case you have any other query apart from the above FAQs please reach out to your Program Manager
+
+Registration Steps- 
+
+1.       Go to your Olympus Dashboard- https://olympus.greatlearning.in/login
+2.       Click on the Hackathon Tab:
+3.       Click on Practice Hackathon Attrition 
+4.       Click on REGISTER 
+5.       Please register using your Official Name (as on Olympus) 
+6.       Click on SUBMIT once you have entered your name
